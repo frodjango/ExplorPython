@@ -1,1 +1,2 @@
-/home/frousseau/PycharmProjects/ExplorPython/README.md
+# ExplorPython
+Jouer avec Python
